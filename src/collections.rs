@@ -1,8 +1,7 @@
-
 /// 快速构建一个[std::collections::HashMap]
 ///
 /// ```rust
-/// use utils_rs::hashmap;
+/// use utils_soeur::hashmap;
 ///
 /// hashmap! {
 ///     1 => 'a'
@@ -11,7 +10,7 @@
 ///
 /// with_capacity:
 /// ```
-/// use utils_rs::hashmap;
+/// use utils_soeur::hashmap;
 ///
 /// hashmap! (2, {
 ///     1 => 'a',
