@@ -1,6 +1,6 @@
 [package]
 name = "utils-soeur"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 authors = ["soeur <juzi201314@gmail.com>"]
 description = "Just a library of practical tools for my own use"
